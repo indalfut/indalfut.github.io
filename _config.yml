@@ -1,8 +1,21 @@
 title: Catálogo de Camisetas
 description: "Catálogo de camisetas personalizadas"
 theme: minimal-mistakes-jekyll
-url: "https://tunombredeusuario.github.io"
-repository: tunombredeusuario/tunombredeusuario.github.io
+url: "https://indalfut.github.io"
+repository: indalfut/indalfut.github.io
 
-# Opciones de Minimal Mistakes
-minimal_mistakes_skin: "default" # Puedes cambiarlo a "air", "aqua", etc.
+# Tema y skin (ver opciones aquí: https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#skin-settings)
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"  # "air", "aqua", "dark", "dirt", "neon", "mint"
+
+# Plugins necesarios
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+
+# Opcional: Configuración por defecto para páginas
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "single"
