@@ -1,0 +1,8 @@
+title: Catálogo de Camisetas
+description: "Catálogo de camisetas personalizadas"
+theme: minimal-mistakes-jekyll
+url: "https://tunombredeusuario.github.io"
+repository: tunombredeusuario/tunombredeusuario.github.io
+
+# Opciones de Minimal Mistakes
+minimal_mistakes_skin: "default" # Puedes cambiarlo a "air", "aqua", etc.
