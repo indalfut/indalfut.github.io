@@ -1,9 +1,9 @@
 - name: "Camiseta Clásica"
   price: "$19.99"
   image: "camiseta1.jpg"
-  description: "100% algodón, disponible en varios colores."
+  description: "100% algodón, colores variados."
 
-- name: "Camiseta Estampada"
+- name: "Camiseta Premium"
   price: "$24.99"
   image: "camiseta2.jpg"
-  description: "Diseño exclusivo con estampado artístico."
+  description: "Estampado de alta calidad."
